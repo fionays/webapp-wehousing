@@ -1,0 +1,26 @@
+<div class="col-md-12 col-sm-12 col-xs-12 normal-grey box-shadow">
+
+	<!-- Element Image -->
+	<div class="col-md-6 col-sm-6 col-xs-12">
+		<img ng-src="images/{{$ctrl.apartment.image}}" class="img-responsive img-thumbnail">
+	</div>
+	<!-- Element Body -->
+	<div class="col-md-6 col-sm-6 col-xs-12">
+		<h2>{{$ctrl.apartment.name}}</h2>
+		<hr/>
+		<small>{{$ctrl.apartment.address.university}}, {{$ctrl.apartment.address.city}}</small>
+		<br/>
+		<small>{{$ctrl.apartment.address.county}}, {{$ctrl.apartment.address.state}}</small>
+	</div>
+	<div class="pull-right price-tag">
+		<p class="wehousing-orange">Popularity: {{$ctrl.apartment.popularity}}</p>
+		<p class="wehousing-orange">From <span class="font-30">${{$ctrl.apartment.price}}</span></p>
+		<p class="wehousing-orange"> USD / Month</p>
+		<br/>
+	</div>
+	<br/>
+	<div class="col-md-6 col-sm-6 col-xs-12">
+		<button class="pull-right btn btn-default" ng-click="$ctrl.return()">Back</button>	
+	</div>
+</div>
+

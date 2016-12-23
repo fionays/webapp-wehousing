@@ -1,0 +1,41 @@
+
+
+div.normal-grey {
+	background-color: #DCDCDC;
+}
+
+div.normal-white {
+	background-color: #FFFFFF;
+}
+
+div.box-shadow {
+	margin: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.price-tag {
+	padding-top: 5%;
+	position: relative;
+	z-index: 500;
+}
+
+button.custom-orange {
+	background-color: #F49129;
+	color: #000000;
+	outline: none;
+}
+
+span.font-30 {
+	font-size: 30px;
+}
+
+h2 {
+	cursor: pointer;
+}
+
+
+
+/* Colors */
+.wehousing-orange {
+	color: #F49129;
+}

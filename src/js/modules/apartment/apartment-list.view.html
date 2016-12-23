@@ -1,0 +1,47 @@
+<div class="col-md-12 col-sm-12 col-xs-12 normal-grey box-shadow">
+	<h4>{{::$ctrl.apartments[0].address.county}}, {{::$ctrl.apartments[0].address.state}}: <span>{{::$ctrl.apartments.length}} Apartments</span></h4>
+	<div class="col-md-12 col-sm-12 col-xs-12">
+		<button class="btn pull-right"
+				ng-click="$ctrl.switchToPrice()"
+				ng-class="{'custom-orange': $ctrl.isActive('price')}">Price</button>
+		<button class="btn pull-right"
+				ng-click="$ctrl.switchToPopularity()"
+				ng-class="{'custom-orange': $ctrl.isActive('popularity')}">Popularity</button>
+	</div>
+	<div class="col-md-12 col-sm-12 col-xs-12">
+		<br/>
+	</div>
+	<div class="col-md-12 col-sm-12 col-xs-12" ng-repeat="apartment in $ctrl.apartments | orderBy:$ctrl.criteria:true">
+		<div class="normal-white col-md-12 col-sm-12 col-xs-12">
+			<!-- Element Image -->
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<img ng-src="images/{{apartment.image}}" class="img-responsive img-thumbnail">
+			</div>
+			<!-- Element Body -->
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<h2 ng-click="$ctrl.goToDetailView(apartment)">{{apartment.name}}</h2>
+				<hr/>
+				<small>{{apartment.address.university}}, {{apartment.address.city}}</small>
+				<br/>
+				<small>{{apartment.address.county}}, {{apartment.address.state}}</small>
+			</div>
+			<div class="pull-right price-tag">
+				<p class="wehousing-orange">Popularity: {{apartment.popularity}}</p>
+				<p class="wehousing-orange">From <span class="font-30">${{apartment.price}}</span></p>
+				<p class="wehousing-orange"> USD / Month</p>
+				<br/>
+			</div>
+		</div>
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<br/>
+		</div>
+	</div>
+	<br/>
+	<br/>
+	<div class="col-md-12 col-sm-12 col-xs-12">
+		<span ng-repeat="page in [1,2,3,4,5,6,7,8,9,10,11,12]">
+			<button ng-click="$ctrl.getNextPage($index, $ctrl.totalApartments)">{{page}}</button>
+		</span>
+	    <pre>Page: {{$ctrl.currentPage}} / {{$ctrl.totalPages}}</pre>
+	</div>
+</div>

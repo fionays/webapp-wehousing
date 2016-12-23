@@ -1,0 +1,736 @@
+{
+    "apartments": [
+        {
+        	"name": "The Pavilion on Berry",
+        	"image": "image-1.jpg",
+        	"price": 512,
+        	"popularity": 2,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {        	
+        	"name": "Radius @15th",
+        	"image": "image-2.jpg",
+        	"price": 492,
+        	"popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+        	"name": "416 Lofts",
+        	"image": "image-3.jpg",
+        	"price": 460,
+        	"popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+        	"name": "Edge on Oak",
+        	"image": "image-4.jpg",
+        	"price": 532,
+        	"popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Second Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Third Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        },
+        {
+            "name": "The Pavilion on Berry",
+            "image": "image-1.jpg",
+            "price": 512,
+            "popularity": 4,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {           
+            "name": "Radius @15th",
+            "image": "image-2.jpg",
+            "price": 492,
+            "popularity": 5,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+
+            "name": "416 Lofts",
+            "image": "image-3.jpg",
+            "price": 460,
+            "popularity": 3,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Edge on Oak",
+            "image": "image-4.jpg",
+            "price": 532,
+            "popularity": 7,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twin Cities",
+                "county": "Minneapolis",
+                "state": "MN"
+            }
+        },
+        {
+            "name": "Whatever on Oak",
+            "image": "image-4.jpg",
+            "price": 1032,
+            "popularity": 10,
+            "address": {
+                "university": "University of Minnesota",
+                "city": "Twsssin Cities",
+                "county": "Misssnneapolis",
+                "state": "MsssN"
+            }
+        }  
+    ]
+}
