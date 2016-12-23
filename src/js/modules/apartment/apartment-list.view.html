@@ -1,5 +1,5 @@
 <div class="col-md-12 col-sm-12 col-xs-12 normal-grey box-shadow">
-	<h4>{{::$ctrl.apartments[0].address.county}}, {{::$ctrl.apartments[0].address.state}}: <span>{{::$ctrl.apartments.length}} Apartments</span></h4>
+	<h4>{{$ctrl.apartments[0].address.county}}, {{$ctrl.apartments[0].address.state}}: <span>{{$ctrl.totalApartments.length}} Apartments</span></h4>
 	<div class="col-md-12 col-sm-12 col-xs-12">
 		<button class="btn pull-right"
 				ng-click="$ctrl.switchToPrice()"
